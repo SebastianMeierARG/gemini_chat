@@ -89,15 +89,4 @@ The chatbot is hosted in a **Gradio interface**, which allows for easy interacti
 - **Sources:** Shows which documents were used
 
 
----
-
-##  License
-
-This project is **open-source** and available for modification.
-
----
-
-## 💡 Need Help?
-
-Feel free to open an **issue** or contribute to improving this chatbot!
 
